@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "shellfish",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "9ceacb57-91ef-4ba5-9f93-2afb5cdbdd03",
+      "database_name": "ShellfishDB"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
